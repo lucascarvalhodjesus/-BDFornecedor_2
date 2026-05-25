@@ -1,0 +1,7 @@
+com/mycompany/prjbdfornecedores_2tabela/bo/FornecedorBO.class
+com/mycompany/prjbdfornecedores_2tabela/dao/FornecedorDAO.class
+com/mycompany/prjbdfornecedores_2tabela/models/Fornecedor.class
+com/mycompany/prjbdfornecedores_2tabela/dao/ContatoDAO.class
+com/mycompany/prjbdfornecedores_2tabela/util/Conexao.class
+com/mycompany/prjbdfornecedores_2tabela/PrjBDFornecedores_2Tabela.class
+com/mycompany/prjbdfornecedores_2tabela/models/Contato.class

@@ -1,0 +1,7 @@
+/home/carlos/NetBeansProjects/PrjBDFornecedores_2Tabela/src/main/java/com/mycompany/prjbdfornecedores_2tabela/PrjBDFornecedores_2Tabela.java
+/home/carlos/NetBeansProjects/PrjBDFornecedores_2Tabela/src/main/java/com/mycompany/prjbdfornecedores_2tabela/bo/FornecedorBO.java
+/home/carlos/NetBeansProjects/PrjBDFornecedores_2Tabela/src/main/java/com/mycompany/prjbdfornecedores_2tabela/dao/ContatoDAO.java
+/home/carlos/NetBeansProjects/PrjBDFornecedores_2Tabela/src/main/java/com/mycompany/prjbdfornecedores_2tabela/dao/FornecedorDAO.java
+/home/carlos/NetBeansProjects/PrjBDFornecedores_2Tabela/src/main/java/com/mycompany/prjbdfornecedores_2tabela/models/Contato.java
+/home/carlos/NetBeansProjects/PrjBDFornecedores_2Tabela/src/main/java/com/mycompany/prjbdfornecedores_2tabela/models/Fornecedor.java
+/home/carlos/NetBeansProjects/PrjBDFornecedores_2Tabela/src/main/java/com/mycompany/prjbdfornecedores_2tabela/util/Conexao.java
